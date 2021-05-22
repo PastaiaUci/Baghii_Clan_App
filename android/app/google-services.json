@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829746251371",
+    "project_id": "baghii-clan-f8a69",
+    "storage_bucket": "baghii-clan-f8a69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829746251371:android:4849db7e84e9686780d32e",
+        "android_client_info": {
+          "package_name": "com.example.baghii_clan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829746251371-oi4n366jk86d7ka8mg924j3fmlk6b4ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA1jaeWb4z0Ci6D0ZurOJIKnho_ISTH7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829746251371-oi4n366jk86d7ka8mg924j3fmlk6b4ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
