@@ -2,7 +2,7 @@
 
 ## Description
 
-A social app where me and my friends could interact and have fun
+A social app where me and my friends could interact and have fun.
 
 ## Google Store
 
