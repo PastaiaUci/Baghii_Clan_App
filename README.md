@@ -34,10 +34,22 @@ You can change your name in real time,your profile picture and log out.
 
 <img src="Settings_Tab.jpg" width="200" height="400">
 
-<img src="Settings_Tab.jpg" width="200" height="400">
-
 ### Users tab
 
+Here you can see all the users and see if they change their name and profile picture in real time.
+
+
+<img src="Users_Tab.jpg" width="200" height="400">
+
 ### Extra info 
+
+You can post some pictures that are stored on the firebase storage.
+Also the bottom navigation bar has a smooth animation.
+
+
+<img src="Upload_To_Firebase.jpg" width="200" height="400">
+
+
+<img src="post.jpg" width="200" height="400">
 
 
