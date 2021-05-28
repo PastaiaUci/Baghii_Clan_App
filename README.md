@@ -17,6 +17,4 @@ Here is a link to a youtube video with an example: https://youtu.be/UCJ_0i9WHYw
 
 ### Login and Signup screens
 
-<br><br>
-<img src="https://imgur.com/a/0W6agR9"></img>
-<br><br>
+![Imgur Image](https://imgur.com/a/0W6agR9.jpg)
