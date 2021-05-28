@@ -13,5 +13,5 @@ Soon to be released.
 !!! The names and profile pictures update in real time and all users see the changes immediately(there is a few seconds delay with the profile pic,will have to look into that soon).
 
 <br><br>
-<img src="https://youtu.be/4N5c_qoLVW0" width="720"></img>
+<img src="https://youtu.be/UCJ_0i9WHYw" width="720"></img>
 <br><br>
