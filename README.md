@@ -28,6 +28,10 @@ There is a smooth animation between the screens and there is form validation.
 
 ### Profile tab
 
+You can change your name in real time,your profile picture and log out.
+
+<img src="User_Profile_UI.jpg" width="200" height="400">
+
 ### Users tab
 
 ### Extra info 
