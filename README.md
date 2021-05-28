@@ -17,7 +17,7 @@ Here is a link to a youtube video with an example: https://youtu.be/UCJ_0i9WHYw
 
 ### Login and Signup screens
 
-![Screenshot](192336139_3626302504140331_1132200005808792351_n.jpg)
+![Screenshot](192336139_3626302504140331_1132200005808792351_n.jpg | width=100 )
 
 There is a smooth animation between the screens and there is form validation.
 
