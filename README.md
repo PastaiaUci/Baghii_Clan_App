@@ -49,6 +49,8 @@ Also the bottom navigation bar has a smooth animation.
 
 <img src="Upload_To_Firebase.jpg" width="200" height="400">
 
+/ 
+/
 
 <img src="post.jpg" width="200" height="400">
 
